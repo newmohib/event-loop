@@ -9,6 +9,6 @@ The event-loop may be used in conjunction with a reactor, if the event provider 
 The event loop almost always operates asynchronously with the message originator.
 
 
-![](https://github.com/newmohib/event-loop/public/EventLoop.PNG)
+![](https://github.com/newmohib/event-loop/blob/master/public/EventLoop.PNG)
 
 ## `libevent`
