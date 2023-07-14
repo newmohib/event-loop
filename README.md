@@ -5,7 +5,8 @@
 
 ### Event Loop Summary
 
-    1: The Event Loop is a C program that orchestrates or co-ordinates the exicution of synchronous and asynchronous code in Node.js
+    1: The Event Loop is a C program that orchestrates or co-ordinates the exicution 
+    of synchronous and asynchronous code in Node.js
 
     2: It co-ordinates the execution of callbacks in six different queues
 
